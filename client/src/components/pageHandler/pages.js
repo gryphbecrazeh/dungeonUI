@@ -1,0 +1,4 @@
+export const LOGIN ='LOGIN';
+export const CHARACTER_SELECT ='CHARACTER_SELECT';
+export const CHOOSE_RACE ='CHOOSE_RACE';
+export const CHARACTER_SHEET ='CHARACTER_SHEET';
